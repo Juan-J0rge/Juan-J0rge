@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👩🏻‍💻 Juan Jorge
 
-<!--
-**Juan-J0rge/Juan-J0rge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+🎓 Estudante de Ciência da Computação  
+📍 Maceió, Alagoas — Brasil  
+💻 Apaixonado por tecnologia, programação e aprendizado contínuo  
+🧠 Sempre empenhado em dar o meu melhor em tudo que faço!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Me chamo Juan Jorge, tenho 20 anos e atualmente curso Ciência da Computação.  
+Estou em constante evolução, sempre buscando aprender novas tecnologias, resolver problemas reais com código e colaborar com projetos que me desafiem e me façam crescer como desenvolvedor e como pessoa.
+
+Gosto de estudar temas como:
+
+- Java & Frameworks ☕
+- Banco de Dados (SQL & NoSQL) 🗃️
+- Estrutura de Dados e Algoritmos 📊
+- Front-End 🖥️
+
+---
+  
+## 📫 Como me encontrar
+
+- 🌐 [LinkedIn](www.linkedin.com/in/devjuan)
+- 📧 Email: juancontatrabalho@gmail.com
+- 💬 Fale comigo! Sempre aberto a novas conexões, parcerias e projetos.
+
+
+
