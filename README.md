@@ -19,7 +19,7 @@ Gosto de estudar temas como:
 - Java & Frameworks ☕
 - Banco de Dados (SQL & NoSQL) 🗃️
 - Estrutura de Dados e Algoritmos 📊
-- Front-End 🖥️
+- Fullstack 🖥️
 
 ---
   
