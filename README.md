@@ -25,7 +25,7 @@ Gosto de estudar temas como:
   
 ## 📫 Como me encontrar
 
-- 🌐 [LinkedIn](www.linkedin.com/in/devjuan)
+- 🌐 Linkedin: www.linkedin.com/in/devjuan
 - 📧 Email: juancontatrabalho@gmail.com
 - 💬 Fale comigo! Sempre aberto a novas conexões, parcerias e projetos.
 
