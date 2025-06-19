@@ -20,7 +20,7 @@ Gosto de estudar temas como:
 - Banco de Dados (SQL & NoSQL) 
 - Estrutura de Dados e Algoritmos 
 - Fullstack
-- 
+
 ---
   
 ## 📫 Como me encontrar
