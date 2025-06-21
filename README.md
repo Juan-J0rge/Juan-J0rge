@@ -4,7 +4,7 @@
 
 🎓 Estudante de Ciência da Computação  
 📍 Maceió, Alagoas — Brasil  
-💻 Apaixonado por tecnologia, programação e aprendizado contínuo  
+💻 Apaixonado por tecnologia e programação  
 🧠 Sempre empenhado em dar o meu melhor em tudo que faço!
 
 ---
