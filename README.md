@@ -14,20 +14,6 @@
 Me chamo Juan Jorge, tenho 21 anos e atualmente curso Ciência da Computação.  
 Estou em constante evolução, sempre buscando aprender novas tecnologias, resolver problemas reais com código e colaborar com projetos que me desafiem e me façam crescer como desenvolvedor e como pessoa.
 
-Gosto de estudar temas como:
-
-- Java & Spring Boot 
-- Banco de Dados (SQL & NoSQL) 
-- Estrutura de Dados e Algoritmos 
-- Fullstack
-
----
-  
-## 📫 Como me encontrar
-
-- 🌐 Linkedin: www.linkedin.com/in/devjuan
-- 📧 Email: juancontatrabalho@gmail.com
-- 💬 Fale comigo! Sempre aberto a novas conexões, parcerias e projetos.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogithub1406&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
