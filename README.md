@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">Olá! Sou Juan Jorge, estudante de Ciência da Computação em Maceió - AL.<br><br>Atualmente trabalho como instrutor de informática e desenvolvo projetos Full Stack. Tenho foco em Back-end com Java e Spring Boot, além de experiência com React e PostgreSQL.<br><br>Estou aprofundando meus conhecimentos em desenvolvimento de APIs REST, arquitetura de software e boas práticas de programação.<br><br>No meu tempo livre, gosto de estudar programação, ouvir música e explorar novas ideias.</p>
+<p data-importer="text" align="left">Olá! Sou Juan Jorge, estudante de Ciência da Computação em Maceió - AL.<br><br>Atualmente trabalho como instrutor de informática e desenvolvo projetos Back-end | Front-end | Full Stack. Tenho foco em Back-end com Java e Spring Boot, desenvolvendo APIs REST e trabalhando com JPA, Hibernate e bancos de dados como PostgreSQL e MySQL. No Front-end, tenho experiência com React, JavaScript, TypeScript, HTML e CSS.<br><br>Estou aprofundando meus conhecimentos em arquitetura de software, integração de sistemas, testes e boas práticas de programação.<br><br>No meu tempo livre, gosto de estudar programação, ouvir música e explorar novas ideias.</p>
 
 ###
 
